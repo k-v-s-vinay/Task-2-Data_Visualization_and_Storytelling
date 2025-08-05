@@ -61,7 +61,7 @@ data-visualization-storytelling/
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Overview](dashboards/dashboard_screenshots/Super_store_performance.png)  
+![Dashboard Overview](dashboard_screenshots/Super_store_performance.png)  
 
 ---
 
